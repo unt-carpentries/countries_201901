@@ -2,7 +2,7 @@
 The most populous black nation in the world.
 
 ## population
-198million
+198 million
 
 ## capital
 Abuja
