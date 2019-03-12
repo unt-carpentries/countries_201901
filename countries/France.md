@@ -1,14 +1,14 @@
 ##France
-## population
+## population:67.12 million
 
 
-## capital
+## capital : Paris
 
  
-## official language
+## official language:French
 
 
-## interesting trivia
+## interesting trivia:France is the largest country in the EU, and known as 'the hexagon'
 
 
 
